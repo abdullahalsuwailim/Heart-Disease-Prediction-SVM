@@ -1,0 +1,30 @@
+# Python environment and cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Trashes
+Thumbs.db
+
+# Machine Learning & Large files
+# (We keep CSVs unignored so your dataset uploads for the portfolio)
+*.pkl
+*.h5
+*.model
+*.joblib
