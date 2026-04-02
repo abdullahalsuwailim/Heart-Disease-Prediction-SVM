@@ -35,8 +35,3 @@ The model's performance on the unseen test set demonstrates high clinical viabil
 * **Recall (Sensitivity for Disease Class):** **90%** (Crucial metric for medical diagnosis)
 * **Precision (Disease Class):** 81%
 * **ROC-AUC Score:** **0.94** (Indicating excellent separability between healthy and diseased patients)
-
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/Heart-Disease-Prediction-SVM.git](https://github.com/your-username/Heart-Disease-Prediction-SVM.git)
